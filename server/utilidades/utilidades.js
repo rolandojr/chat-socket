@@ -1,7 +1,7 @@
 
-let crearMensaje = (usuario,mensaje) => {
+let crearMensaje = (nombre,mensaje) => {
     return {
-        usuario,
+        nombre,
         mensaje,
         fecha: new Date().getTime()
     }
