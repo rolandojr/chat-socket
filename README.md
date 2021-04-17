@@ -7,4 +7,5 @@ Este es un pequeño servidor de express listo para ejecutarse y servir la carpet
 ```
 npm install
 ```
-VAMOS A COMPARTIR EL CONOCIMIENTO
+VAMOS A COMPARTIR EL CONOCIMIENTO 
+ESTO SE VE REFLEJADO EN SLACK, CURSO GESTION DE CONOCIMIENTO.
